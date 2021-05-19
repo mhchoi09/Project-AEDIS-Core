@@ -1,0 +1,23 @@
+﻿{
+  "dependencies": {
+    "BuildAzure.IoT.Adafruit.BME280": "1.0.0.1",
+    "Eternal.DataVisualization.WinRT": "14.1.0.25",
+    "IoT.I2c": "1.0.6",
+    "Microsoft.ApplicationInsights": "2.2.0-beta1",
+    "Microsoft.ApplicationInsights.PersistenceChannel": "2.0.0-beta3",
+    "Microsoft.ApplicationInsights.WindowsApps": "1.1.1",
+    "Microsoft.Azure.Devices.Client": "1.0.20",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2"
+  },
+  "frameworks": {
+    "uap10.0.10240": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}
